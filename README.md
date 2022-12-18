@@ -12,11 +12,15 @@
 
 - 🌱 I’m currently learning JavaScript, CSS, and HTML
 
-- 📫 How to reach me: laissalviatoclaudiano@gmail.com
+- 📫 How to reach me:
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/laissalviatoclaudiano/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=laissalviatoclaudiano&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:laissalviatoclaudiano@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
  </div>
 
 <!--
