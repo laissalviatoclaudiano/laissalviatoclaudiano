@@ -2,15 +2,13 @@
   <img src="https://media.tenor.com/PRN-EHOCuHwAAAAC/the-it-crowd-moss-the-it-crowd.gif" width="300"/>
 </div>
 
-<br />
-
 <h1 align="center"> 
-  Welcome to my profile! 
+  Welcome to my profile! 👋
 </h1>
 
-- ⚡ I'm a 21 year-old Brazilian and I've been coding since October 2022
+- ⚡ I'm a 21 year-old Brazilian and I've been coding since October 2022.
 
-- 🌱 I’m currently learning JavaScript, CSS, and HTML
+- 🌱 I’m currently learning JavaScript, CSS, and HTML.
 
 - 📫 How to reach me:
 
