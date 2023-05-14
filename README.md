@@ -6,7 +6,7 @@
   Welcome to my profile! 👋
 </h1>
 
-- ⚡ I'm a 21 year-old Brazilian and I've been coding since November 2022.
+- ⚡ I'm a 22 year-old Brazilian and I've been coding since November 2022.
 
 - 🌱 I’m currently learning Java.
 
